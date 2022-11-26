@@ -9,3 +9,7 @@
 <a href="https://t.me/Komersant1990" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram&logoColor=red"/>
 </a>
+
+<a href="https://www.linkedin.com/in/yevhen-kushnir-a9a996247/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=LinkedIn&logoColor=red"/>
+</a>
