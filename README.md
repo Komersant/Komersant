@@ -1,6 +1,5 @@
-### Hi there 👋
+Всем привет. Меня зовут Евгений. Я начинающий веб разработчик.  Есть огромное желание развиваться в этом направлении и изучать новые технологии.
 
-<!--
-**Komersant/Komersant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Мой стек технологий
 
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>HTML5</title><path d="M1.5 0h21l-1.91 21.563L11.977 24l-8.564-2.438L1.5 0zm7.031 9.75l-.232-2.718 10.059.003.23-2.622L5.412 4.41l.698 8.01h9.126l-.326 3.426-2.91.804-2.955-.81-.188-2.11H6.248l.33 4.171L12 19.351l5.379-1.443.744-8.157H8.531z"/></svg>
+<img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML5&logoColor=red"/> <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS3&logoColor=red"/> <img src="https://img.shields.io/badge/Sass(Scss)-black?style=for-the-badge&logo=Sass&logoColor=red"/> <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=red"/> <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=React&logoColor=red"/> <img src="https://img.shields.io/badge/React Router 6-black?style=for-the-badge&logo=React Router&logoColor=red"/> <img src="https://img.shields.io/badge/Redux Toolkit-black?style=for-the-badge&logo=Redux&logoColor=red"/> <img src="https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=TYpescript&logoColor=red"/> <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git&logoColor=red"/> <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=Figma&logoColor=red"/>
